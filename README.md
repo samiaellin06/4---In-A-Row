@@ -1,0 +1,1 @@
+A two player board game, where a player have to match coins of a same color horizontally, vertically or diagonally to win the game. The game was made with C programing and its graphics library OpenGL was used. 
